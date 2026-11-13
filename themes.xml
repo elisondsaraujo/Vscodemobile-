@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CodeShell" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/editor_bg</item>
+        <item name="android:statusBarColor">@color/editor_bg</item>
+        <item name="android:navigationBarColor">@color/editor_bg</item>
+    </style>
+</resources>
