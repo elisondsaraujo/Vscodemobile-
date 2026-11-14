@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Code Shell</string>
-    <string name="error_load">Não foi possível abrir %1$s\n(%2$s)\n\nInicie o code-server no Termux e tente novamente.</string>
-    <string name="retry">Tentar novamente</string>
-    <string name="change_url">Alterar endereço</string>
-    <string name="invalid_url">Endereço inválido. Use https://… ou http://127.0.0.1:porta</string>
-</resources>
